@@ -1,0 +1,9 @@
+body{
+	background: steelblue;
+}
+
+h1,p{
+	text-align: center;
+	color: white;
+	font-family: 'Helvetica';
+}
